@@ -644,38 +644,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwvhidl.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/mediadrm/libprmediadrmdecrypt.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libprmediadrmdecrypt.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/mediadrm/libprmediadrmplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libprmediadrmplugin.so \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_adsp_loader.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_adsp_loader.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_apr.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_apr.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_bolero_cdc.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_bolero_cdc.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_hdmi.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_hdmi.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_machine_talos.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_machine_talos.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_mbhc.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_mbhc.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_native.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_native.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_pinctrl_lpi.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_pinctrl_lpi.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_pinctrl_wcd.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_pinctrl_wcd.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_platform.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_platform.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_q6.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_q6.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_q6_notifier.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_q6_notifier.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_q6_pdr.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_q6_pdr.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_rx_macro.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_rx_macro.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_snd_event.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_snd_event.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_stub.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_stub.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_swr.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_swr.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_swr_ctrl.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_swr_ctrl.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_tx_macro.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_tx_macro.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_usf.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_usf.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_va_macro.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_va_macro.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wcd934x.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wcd934x.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wcd937x.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wcd937x.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wcd937x_slave.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wcd937x_slave.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wcd9xxx.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wcd9xxx.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wcd_core.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wcd_core.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wcd_spi.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wcd_spi.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wglink.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wglink.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wsa881x.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wsa881x.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/audio_wsa_macro.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/audio_wsa_macro.ko \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/modules.alias:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/modules.alias \
-    vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/modules.dep:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/modules.dep \
     vendor/xiaomi/violet/proprietary/vendor/lib/modulesp/qca_cld3_wlan.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modulesp/qca_cld3_wlan.ko \
     vendor/xiaomi/violet/proprietary/vendor/lib/rfsa/adsp/capi_v2_aptX_Classic.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/capi_v2_aptX_Classic.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/rfsa/adsp/capi_v2_aptX_HD.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/capi_v2_aptX_HD.so \
