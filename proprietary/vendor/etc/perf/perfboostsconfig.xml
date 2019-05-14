@@ -120,7 +120,7 @@
         <!-- CPUBOOST_MIN_FREQ BIG Core resource opcode, value-->
         <!-- CPUBOOST_MIN_FREQ LITTLE Core resource opcode, value-->
         <Config
-            Id="0x00001083" Enable="true" Timeout="400" Target="msmsteppe"
+            Id="0x00001083" Type="1" Enable="true" Timeout="400" Target="msmsteppe"
             Resources="0x40804000, 0xFFF, 0x40804100, 0xFFF, 0x40800000, 2208, 0x40800100, 1708" />
 
        <Config
