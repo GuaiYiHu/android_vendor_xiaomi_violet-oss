@@ -1188,6 +1188,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libantradio \
     vendor.qti.hardware.fm@1.0 \
+    libMpeg4SwEncoder \
     libsdm-disp-vndapis \
     libthermalclient \
     com.quicinc.cne.api@1.0 \
