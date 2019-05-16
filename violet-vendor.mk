@@ -433,7 +433,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib/hw/gralloc.sm6150.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.sm6150.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/hw/hwcomposer.sm6150.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.sm6150.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/hw/memtrack.sm6150.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.sm6150.so \
-    vendor/xiaomi/violet/proprietary/vendor/lib/hw/thermal.sm6150.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.sm6150.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/hw/vendor.qti.esepowermanager@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.esepowermanager@1.0-impl.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.fm@1.0-impl.so \
     vendor/xiaomi/violet/proprietary/vendor/lib/hw/vendor.qti.hardware.iop@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.iop@2.0-impl.so \
@@ -841,7 +840,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib64/hw/gralloc.sm6150.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.sm6150.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/hw/hwcomposer.sm6150.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.sm6150.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/hw/memtrack.sm6150.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/memtrack.sm6150.so \
-    vendor/xiaomi/violet/proprietary/vendor/lib64/hw/thermal.sm6150.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.sm6150.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/hw/vendor.qti.esepowermanager@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.esepowermanager@1.0-impl.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/hw/vendor.qti.gnss@2.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.gnss@2.1-impl.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so \
