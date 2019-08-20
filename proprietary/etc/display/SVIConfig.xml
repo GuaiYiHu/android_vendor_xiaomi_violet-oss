@@ -37,6 +37,6 @@
 
 	<TemporalControlTableLength uints='int'>4</TemporalControlTableLength>
 	<TemporalControlTableInput units='uint'>30 50 128 160</TemporalControlTableInput>
-	<TemporalControlTableOutput units='uint'>2 48 48 48</TemporalControlTableOutput>
+	<TemporalControlTableOutput units='uint'>2 12 12 12</TemporalControlTableOutput>
 
 </Group>
